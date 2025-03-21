@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "main beat",
+    "file": "samples/Web_app_1_sample_3.mp3",
+    "bpm": "125",
+    "loop": 4,
+    "grain": "0.081",
+    "overlap": "0.011"
+  },
+  {
+    "name": "rain",
+    "file": "samples/web_app_1_sample_1.mp3",
+    "bpm": "89",
+    "loop": 4,
+    "grain": 0.04,
+    "overlap": "0.011"
+  },
+  {
+    "name": "slowtalk",
+    "file": "samples/Web_app_1_sample_2.mp3",
+    "bpm": "120",
+    "loop": 4,
+    "grain": 0.04,
+    "overlap": "0.001"
+  }
+]
